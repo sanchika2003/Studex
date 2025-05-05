@@ -2,7 +2,7 @@
 A Spring Boot web application for managing students, built with Java, Thymeleaf, Spring JPA, and H2 database. The application allows users to create, update, view, and delete student records with a responsive Bootstrap-based UI.
 
 ## 📌 Project Overview
-You are responsible for backend operations to add and update student records, along with building responsive form pages for both features using Thymeleaf and Bootstrap.
+I am responsible for backend operations to add and update student records, along with building responsive form pages for both features using Thymeleaf and Bootstrap.
 
 ---
  ## Features
